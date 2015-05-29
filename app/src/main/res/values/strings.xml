@@ -4,10 +4,16 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="button_spotify">SPOTIFY STREAMER</string>
+    <string name="msg_spotify">This button will launch my spotify app!</string>
     <string name="button_scores">SCORES APP</string>
+    <string name="msg_scores">This button will launch my scores app!</string>
     <string name="button_library">LIBRARY APP</string>
+    <string name="msg_library">This button will launch my library app!</string>
     <string name="button_build">BUILD IT BIGGER</string>
+    <string name="msg_build">This button will launch my build app!</string>
     <string name="button_reader">XYZ READER</string>
+    <string name="msg_reader">This button will launch my xyz app!</string>
     <string name="button_myapp">CAPSTONE: MY OWN APP</string>
+    <string name="msg_myapp">This button will launch my App app!</string>
     <string name="local_title">My Nanodegree Apps!</string>
 </resources>
